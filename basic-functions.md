@@ -1,4 +1,4 @@
-# Basic Functions
+# Markdown Basic Functions
 
 ## Lists
 - Relationships
@@ -15,5 +15,5 @@ this is how you add check lists: <br>
 [ ] not yet done <br>
 [x] already finished
 
-## Mark-Down Cheat-Sheet
-- Click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to go to the cheat sheet
+## Markdown Cheat-Sheet
+- Click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to go to the Markdown-cheat-sheet
